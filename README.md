@@ -63,8 +63,8 @@
 |GitHub|[Jungkyung]()|[Wooks]()|[MinwooJe](https://github.com/MinwooJe)|
 |Language|<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">|<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">|<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 |Example|8문제 ✅|6문제 ✅|4문제 ☑️|
-|Week1|  |  |20문제 ✅|
-|Week2|  |  |  |
+|Week1|  |11문제  ✅|20문제 ✅|
+|Week2|  |6문제  ✅|  |
 |Week3|  |  |  |
 |Week4|  |  |  | 
 
